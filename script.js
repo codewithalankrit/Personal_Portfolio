@@ -257,12 +257,7 @@ $(document).ready(function () {
   });
 
   // Text animation with typewriter effect
-  const roles = [
-    "UI/UX Designer",
-    "Web Developer",
-    "Video Editor",
-    "Web Designer",
-  ];
+  const roles = ["UI/UX Designer", "Web Developer", "Web Designer"];
   let currentIndex = 0;
   let currentIndex2 = 0;
   let isDeleting = false;

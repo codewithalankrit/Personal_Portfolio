@@ -1106,3 +1106,22 @@ a:hover {
   border-color: #b8daff;
   color: #004085;
 }
+
+.zoomed-half-image {
+  width: 100%;
+  aspect-ratio: 4/3;
+  background-image: url("assets/3d_homepage.png");
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.zoomed-half-image_1 {
+  width: 100%;
+  aspect-ratio: 4/3;
+  background-image: url("assets/marketexchange_home.png");
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
